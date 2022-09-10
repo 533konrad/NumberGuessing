@@ -1,3 +1,6 @@
+
+#TODO: counting tries and errors
+
 def NumberGuessing():
 
     from random import random
